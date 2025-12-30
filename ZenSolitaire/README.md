@@ -13,7 +13,7 @@ Zen Solitaire is a calming card game designed to provide a smooth and relaxing d
 ---
 
 ### Privacy Policy
-https://wchz87mg9c-cpu_ZenSolitaire.github.io/privacy
+https://wchz87mg9c-cpu.github.io/zensolitaire/privacy
 
 ---
 
@@ -37,7 +37,7 @@ Zen Solitaire est un jeu de cartes apaisant conçu pour offrir une expérience s
 ---
 
 ### Politique de confidentialité
-https://wchz87mg9c-cpu_ZenSolitaire.github.io/privacy
+https://wchz87mg9c-cpu.github.io/zensolitaire/privacy
 
 ---
 
