@@ -2,3 +2,4 @@
 
 Choisissez votre application :
 - Zen Solitaire → https://wchz87mg9c-cpu.github.io/zensolitaire
+- VibeStream → https://wchz87mg9c-cpu.github.io/vibestream
